@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -21,6 +22,23 @@
             <option value="$PROJECT_DIR$/p0101listener" />
             <option value="$PROJECT_DIR$/p0102activitylistener" />
             <option value="$PROJECT_DIR$/p0111resvalues" />
+            <option value="$PROJECT_DIR$/p0121logandmess" />
+            <option value="$PROJECT_DIR$/p0131menusimple" />
+            <option value="$PROJECT_DIR$/p0141menuadv" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
+            <option value="$PROJECT_DIR$/p0161dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
+            <option value="$PROJECT_DIR$/p0191simplecalculator" />
+            <option value="$PROJECT_DIR$/p0201simpleanimation" />
+            <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0241twoactivitystate" />
+            <option value="$PROJECT_DIR$/p0261intentfilter" />
+            <option value="$PROJECT_DIR$/p0271getintentaction" />
+            <option value="$PROJECT_DIR$/p0281intentextras" />
+            <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
+            <option value="$PROJECT_DIR$/p0301activityresult" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
